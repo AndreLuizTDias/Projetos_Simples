@@ -1,0 +1,43 @@
+<html>
+    <head>
+        <title>Calculadora</title>
+        <meta charset="utf-8"> 
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <form name="calculadora">
+            <div class="calcu">
+                <br>
+                <textarea name="tela" value=""></textarea>
+                <textarea class="teste" name="tela_res" value=""></textarea>
+            <table>
+                <tr>
+                    <td><input type="button"  value="7" onClick="document.calculadora.tela.value+='7'"></td>
+                    <td><input type="button"  value="8" onClick="document.calculadora.tela.value+='8'"></td>
+                    <td><input type="button"  value="9" onClick="document.calculadora.tela.value+='9'"></td>
+                    <td><input type="button"  value="/" onClick="document.calculadora.tela.value+='/'"></td>
+                </tr>
+                <tr>
+                    <td><input type="button"  value="4" onClick="document.calculadora.tela.value+='4'"></td>
+                    <td><input type="button"  value="5" onClick="document.calculadora.tela.value+='5'"></td>
+                    <td><input type="button"  value="6" onClick="document.calculadora.tela.value+='6'"></td>
+                    <td><input type="button"  value="*" onClick="document.calculadora.tela.value+='*'"></td>
+                </tr>
+                <tr>
+                    <td><input type="button"  value="1" onClick="document.calculadora.tela.value+='1'"></td>
+                    <td><input type="button"  value="2" onClick="document.calculadora.tela.value+='2'"></td>
+                    <td><input type="button"  value="3" onClick="document.calculadora.tela.value+='3'"></td>
+                    <td><input type="button"  value="+" onClick="document.calculadora.tela.value+='+'"></td>
+                </tr>
+                <tr>
+                    <td><input type="button"  value="0" onClick="document.calculadora.tela.value+='0'"></td>
+                    <td><input type="button"  value="," onClick="document.calculadora.tela.value+=','"></td>
+                    <td><input type="button"  value="=" onClick="document.calculadora.tela_res.value=eval(document.calculadora.tela.value)"></td>
+                    <td><input type="button"  value="-" onClick="document.calculadora.tela.value+='-'"></td>
+                </tr>
+            </table>
+                <input class="CE" type="reset" name="reset" value="CE">
+            </div>
+        </form>
+    </body>
+</html>
