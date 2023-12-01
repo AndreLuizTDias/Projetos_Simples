@@ -3,7 +3,11 @@ Projeto de estacionamente desenvolvido em java
 O objetivo e registrar a entrada e a saida de um veiculo, fazer a contagem de tempo e da valor do ticket final.
 
 Sistema em funcionamento
-
+<ul>
+<li>Home aonde sao exibidos os carros cadastrados</li>
+<li>Entrada aonde e inserido os dados do veiculo</li>
+<li>Saida aonde o numero do ticket e inserido e assim e gravada a saida do veiculo</li>
+</ul>
 
 ![1](https://github.com/AndreLuizTDias/Projetos_Simples/assets/109778850/60774615-3875-4e65-b7b2-ed23604d5665)
 ![2](https://github.com/AndreLuizTDias/Projetos_Simples/assets/109778850/00734634-f0e1-4c55-8eed-d0a7cad43baf)
