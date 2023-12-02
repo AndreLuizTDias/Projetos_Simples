@@ -2,6 +2,8 @@ Projeto de estacionamente desenvolvido em java
 
 O objetivo e registrar a entrada e a saida de um veiculo, fazer a contagem de tempo e da valor do ticket final.
 
+banco de dados utilizado: Java DB
+
 Sistema e dividido nas seguites partes;
 <ul>
 <li>Home aonde sao exibidos os carros cadastrados</li>
