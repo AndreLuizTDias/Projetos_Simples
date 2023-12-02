@@ -1,4 +1,4 @@
-##Projeto simples para testar Regex em java
+### Projeto simples para testar Regex em java
 
 Sistema em funcionamento:
 
@@ -12,4 +12,4 @@ Quando o CPF estiver no formato compativel com o regex entao uma msg positiva e 
 Quando o CEP estiver no formato compativel com o regex entao uma msg positiva e exibida</br>
 ![6](https://github.com/AndreLuizTDias/Projetos_Simples/assets/109778850/729c82be-4da6-4f0d-9319-034d9c975956)</br>
 
-#Esse codigo e simplesmente para fazer teste de regex, o cpf ou cep inserido nao sao validados em bancos nacionais nem nada do tipo.
+### Esse codigo e simplesmente para fazer teste de regex, o cpf ou cep inserido nao sao validados em bancos nacionais nem nada do tipo.
