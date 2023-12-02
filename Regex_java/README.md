@@ -2,7 +2,7 @@
 
 Sistema em funcionamento:
 
-E necessario escolher um opçao para fazer a validaçao do formato.
+E necessario escolher um opçao para fazer a validaçao do formato.</br>
 ![1](https://github.com/AndreLuizTDias/Projetos_Simples/assets/109778850/8e5efb90-ea6f-4b02-95d2-56439de4d80b)
 ![2](https://github.com/AndreLuizTDias/Projetos_Simples/assets/109778850/d882e53f-6f02-45bb-ba36-7f526dcdacbd)
 ![3](https://github.com/AndreLuizTDias/Projetos_Simples/assets/109778850/685df512-036c-4f54-bc3f-f5db28a701b9)
